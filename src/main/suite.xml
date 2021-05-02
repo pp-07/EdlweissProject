@@ -1,0 +1,14 @@
+<suite name ="Edlweiss_Project">
+
+	<listeners>
+		<listener class-name="ExtentReport.Report" />
+	</listeners>
+<test name ="Interview">
+<classes>
+<class name ="Testcase.Application_Test"/>
+<methods>
+<include name="testa"/>
+</methods>methods>
+</classes>
+</test>
+</suite>
